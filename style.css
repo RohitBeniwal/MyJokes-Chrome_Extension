@@ -1,0 +1,17 @@
+body{
+    width: 300px;
+    height: 200px;
+    background-color: lightgreen;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: blueviolet;
+    border-radius: 6px;
+    border: 3px dotted lightcoral;
+    padding: 10px;
+}
